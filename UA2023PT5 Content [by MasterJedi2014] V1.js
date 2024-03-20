@@ -19,6 +19,7 @@ SourceList["UA23PT5"] = {
 	name : "Unearthed Arcana 2023: Player's Handbook Playtest 5",
 	abbreviation : "UA23PT5",
 	date : "2023/04/26",
+	url : "https://media.dndbeyond.com/compendium-images/ua/ph-playtest5/owThVp1CESZ1c91y/UA-2023-PH-Playtest5.pdf",
 };
 
 // 4th Lvl Feats
